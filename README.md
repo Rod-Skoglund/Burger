@@ -33,13 +33,13 @@ In order to run this application, you will need the following utilities and pack
 
 ----------------
 
-## **4. Demo
+## **4. Demo**
 
 Sorry, due to credit card limitations, this app is not available via Heroku / JawsDB.
 
 ----------------
 
-## **5. Installation
+## **5. Installation**
 
 To run the application locally, first clone this repository with the following command.
 
