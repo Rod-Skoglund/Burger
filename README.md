@@ -35,7 +35,9 @@ In order to run this application, you will need the following utilities and pack
 
 ## **4. Demo**
 
-Sorry, due to credit card limitations, this app is not available via Heroku / JawsDB.
+The Eat-Da-Burger App is deployed to Heroku. Use the following link to see it in action.
+
+https://stark-garden-82013.herokuapp.com/
 
 ----------------
 
